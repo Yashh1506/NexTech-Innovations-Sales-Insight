@@ -26,7 +26,7 @@ This dashboard helps Atliq pvt ltd to go through their sales from 2017 to 2020. 
 - Step 8 : New measures were calculated i.e Revenue and Total Sales Quantity.
 - Step 9 : Two cards were included in the visualization one representing the total revenue and other total sales quantity. 
 - Step 10 : Dashboard consist of two visual filters (Slicers) to one filtering year and other month.
-- Step 11 : Four horizontal barcharts are included to represent , Top 5 customers by revenue, Top 5 customers by sales quantity, market name by revenue and market name by total sales quantity.
+- Step 11 : Four horizontal barcharts are included to represent , Top 5 customers by revenue, Top 5 products by revenue, Revenue per market and total sale quantity per market.
 - Step 12 : Finally the dashboard consist of Line chart that represent the Revenue trend
         
 Snap of new calculated column , that was added to normalise the sales amount
@@ -38,20 +38,11 @@ Following DAX expression was written to calculte revenue and total sales quantit
         Revenue = SUM('sales transactions'[sales_amount])
         Sales Qty = SUM('sales transactions'[sales_qty])
         
-A card visual was used to represent Revenue and Sales Qty.
+Card visuals were used to represent Revenue and Sales Qty.
 
-![Snap_Count](https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg)
+![Screenshot 2024-07-20 121243](https://github.com/user-attachments/assets/ae0cf4bc-8fa3-416f-a2e1-e0a11240bdab)
 
-        
- - Step 16 : New measure was created to find  % of customers,
- 
- Following DAX expression was written to find % of customers,
- 
-         % Customers = (DIVIDE(airline_passenger_satisfaction[Count of Customers], 129880)*100)
- 
- A card visual was used to represent this perecntage.
- 
- Snap of % of customers who preferred business class
+Snap of top 5 Customers and Products by Revenue
  
  ![Snap_Percentage](https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg)
 
