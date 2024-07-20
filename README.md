@@ -42,21 +42,11 @@ Card visuals were used to represent Revenue and Sales Qty.
 
 ![Screenshot 2024-07-20 121243](https://github.com/user-attachments/assets/ae0cf4bc-8fa3-416f-a2e1-e0a11240bdab)
 
-Snap of top 5 Customers and Products by Revenue
- 
- ![Snap_Percentage](https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg)
+Snap of Top 5 Customers and Products by Revenue
 
- 
- - Step 17 : New measure was created to calculate total distance travelled by flights & a card visual was used to represent total distance.
- 
- Following DAX expression was written to find total distance,
- 
-         Total Distance Travelled = SUM(airline_passenger_satisfaction[Flight Distance])
-    
- A card visual was used to represent this total distance.
- 
- 
- ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
+![Screenshot 2024-07-20 121514](https://github.com/user-attachments/assets/fb087e02-a21c-4538-8888-023fb00d1472)
+
+Snap of Revenue and Sale Quantity by Market
  
  - Step 18 : The report was then published to Power BI Service.
  
