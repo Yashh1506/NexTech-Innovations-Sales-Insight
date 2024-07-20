@@ -1,4 +1,4 @@
-# Atliq-Sales-Insight
+# NexTech-Innovations-Sales-Insight
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/20a50d01-ba7c-47ef-9996-9222fc284133/fe4b5b84cd7c03308e32?experience=power-bi
 
