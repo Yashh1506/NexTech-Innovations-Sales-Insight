@@ -29,7 +29,7 @@ This dashboard helps Atliq pvt ltd to go through their sales from 2017 to 2020. 
 - Step 11 : Four horizontal barcharts are included to represent , Top 5 customers by revenue, Top 5 products by revenue, Revenue per market and total sale quantity per market.
 - Step 12 : Finally the dashboard consist of Line chart that represent the Revenue trend
 
-  ### The product generating higehst revenue does not have a product code, thus the database manager must look into it
+  
         
 Snap of new calculated column , that was added to normalise the sales amount
 
@@ -45,6 +45,7 @@ Card visuals were used to represent Revenue and Sales Qty.
 ![Screenshot 2024-07-20 121243](https://github.com/user-attachments/assets/ae0cf4bc-8fa3-416f-a2e1-e0a11240bdab)
 
 Snap of Top 5 Customers and Products by Revenue
+### The product generating higehst revenue does not have a product code, thus the database manager must look into it
 
 ![Screenshot 2024-07-20 121514](https://github.com/user-attachments/assets/fb087e02-a21c-4538-8888-023fb00d1472)
 
