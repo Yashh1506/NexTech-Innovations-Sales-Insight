@@ -23,24 +23,22 @@ This dashboard helps Atliq pvt ltd to go through their sales from 2017 to 2020. 
 - Step 5 : In "sales transaction" table, some entries had "[sales_amount<=0]" which is not possible, thus they were filtered.
 - Step 6 : Two currencies were found in the data INR and USD, to normalize the sales amount, amount in USD was converted into INR.
 - Step 7 : Duplicate rows were found in "sales transaction" table, they were dropped
-- Step 8 : New data was included to the exisiting data i.e Revenue and Total Sales Quantity.
+- Step 8 : New measures were calculated i.e Revenue and Total Sales Quantity.
 - Step 9 : Two cards were included in the visualization one representing the total revenue and other total sales quantity. 
 - Step 10 : Dashboard consist of two visual filters (Slicers) to one filtering year and other month.
 - Step 11 : Four horizontal barcharts are included to represent , Top 5 customers by revenue, Top 5 customers by sales quantity, market name by revenue and market name by total sales quantity.
 - Step 12 : Finally the dashboard consist of Line chart that represent the Revenue trend
         
-Snap of new calculated column ,
+Snap of new calculated column , that was added to normalise the sales amount
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Screenshot 2024-07-20 111517](https://github.com/user-attachments/assets/ec8049f4-ea44-4635-9aa4-24e49f3af45c)
 
+Following DAX expression was written to calculte revenue and total sales quantity,
         
-- Step 15 : New measure was created to find total count of customers.
-
-Following DAX expression was written for the same,
+        Revenue = SUM('sales transactions'[sales_amount])
+        Sales Qty = SUM('sales transactions'[sales_qty])
         
-        Count of Customers = COUNT(airline_passenger_satisfaction[ID])
-        
-A card visual was used to represent count of customers.
+A card visual was used to represent Revenue and Sales Qty.
 
 ![Snap_Count](https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg)
 
