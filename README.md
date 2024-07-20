@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-This dashboard helps Atliq pvt ltd to go through their sales from 2017 to 2020. Atliq pvt ltd is a computer hardware manufacturing company that has customers all over the indian subcontinent, in this report we'll be focusing on its sales in India. As the market is growing dynamically Atliq product started selling at a faster rate than before, and they are unable to monitor their sales in this growing market.When asked for report they get multiple excel files that are unable to provide the complete insight, they needed a interactive dashboard that would navigate them through the overall sales. Thus we will be using Power BI to generate an interactive dashboard that would help them to make data driven decisions to cope up with the market trend.
+This dashboard helps NexTech innovations pvt ltd to go through their sales from 2017 to 2020. NexTech innovations pvt ltd is a computer hardware manufacturing company that has customers all over the indian subcontinent, in this report we'll be focusing on its sales in India. As the market is growing dynamically Atliq product started selling at a faster rate than before, and they are unable to monitor their sales in this growing market.When asked for report they get multiple excel files that are unable to provide the complete insight, they needed a interactive dashboard that would navigate them through the overall sales. Thus we will be using Power BI to generate an interactive dashboard that would help them to make data driven decisions to cope up with the market trend.
 
 
 ### Steps followed 
