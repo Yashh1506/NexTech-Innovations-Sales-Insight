@@ -54,24 +54,15 @@ Snap of Revenue and Sale Quantity by Market
  - Step 13 : The report was then published to Power BI Service.
 
  Snap of Dashboard
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+
+![image](https://github.com/user-attachments/assets/8c9d69e3-bdb7-4a94-9c01-d6a07b989582)
+
 
 # Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
-
-Following inferences can be drawn from the dashboard;
-
-### [1] Total Number of Customers = 129880
-
-   Number of satisfied Customers (Male) = 28159 (21.68 %)
-
-   Number of satisfied Customers (Female) = 28269 (21.76 %)
-
-   Number of neutral/unsatisfied customers (Male) = 35822 (27.58 %)
-
-   Number of neutral/unsatisfied customers (Female) = 37630 (28.97 %)
-
-
-           thus, higher number of customers are neutral/unsatisfied.
+- Total number of customers : 38
+- Total number of products : 279
+- Total number of market places : 17
+- Total revenue : 986565766
+- Total sales quantity : 2444415
            
