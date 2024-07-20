@@ -28,6 +28,8 @@ This dashboard helps Atliq pvt ltd to go through their sales from 2017 to 2020. 
 - Step 10 : Dashboard consist of two visual filters (Slicers) to one filtering year and other month.
 - Step 11 : Four horizontal barcharts are included to represent , Top 5 customers by revenue, Top 5 products by revenue, Revenue per market and total sale quantity per market.
 - Step 12 : Finally the dashboard consist of Line chart that represent the Revenue trend
+
+  ### The product generating higehst revenue does not have a product code, thus the database manager must look into it
         
 Snap of new calculated column , that was added to normalise the sales amount
 
