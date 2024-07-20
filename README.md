@@ -47,20 +47,13 @@ Snap of Top 5 Customers and Products by Revenue
 ![Screenshot 2024-07-20 121514](https://github.com/user-attachments/assets/fb087e02-a21c-4538-8888-023fb00d1472)
 
 Snap of Revenue and Sale Quantity by Market
- 
- - Step 18 : The report was then published to Power BI Service.
- 
- 
-![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
 
-# Snapshot of Dashboard (Power BI Service)
-
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![Screenshot 2024-07-20 121942](https://github.com/user-attachments/assets/64d0422b-c0f7-44a0-9b80-83c39505f081)
 
  
- # Report Snapshot (Power BI DESKTOP)
+ - Step 13 : The report was then published to Power BI Service.
 
- 
+ Snap of Dashboard
 ![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
 
 # Insights
